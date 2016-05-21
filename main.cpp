@@ -9,7 +9,7 @@ int main(){
   names[0] = "Michael Koreshkov";
   //enter your names here
   names[1] = "Nazar Gavryliuk";
-  names[2] = "";
+  names[2] = "Aleksandr Parhomchuk";
   names[3] = "";
 
   for(int i=0;i<teamSize;i++){
