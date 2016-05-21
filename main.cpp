@@ -8,7 +8,7 @@ int main(){
 
   names[0] = "Michael Koreshkov";
   //enter your names here
-  names[1] = "";
+  names[1] = "Nazar Gavryliuk";
   names[2] = "";
   names[3] = "";
 
